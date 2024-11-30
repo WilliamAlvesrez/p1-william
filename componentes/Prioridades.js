@@ -1,5 +1,5 @@
 import React from 'react';
-import { Flag } from 'lucide-react';
+import { Flag } from 'lucide-react-native';
 
 const Prioridades = ({ priority }) => {
   const iconColors = {

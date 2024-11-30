@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet, Pressable } from 'react-native';
-import { Edit, Trash2 } from 'lucide-react';
+import { Edit, Trash2 } from 'lucide-react-native';
 import Prioridades from './Prioridades';
 
 const TaskItem = ({ task, onEdit, onDelete }) => {
